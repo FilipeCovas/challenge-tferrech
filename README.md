@@ -1,7 +1,5 @@
 # challenge-tferrech
 
-## Contexto
-
 O exercício consiste em criar uma React SPA utilizando Vitejs com Typescript.
 
 ### Theme Figma
